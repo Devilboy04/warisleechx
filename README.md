@@ -72,5 +72,6 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ### Credits
+* Edited - By Waris Ali
 * [GautamKumar](https://github.com/gautamajay52/TorrentLeech-Gdrive) for original source
 * [SlamMirror](https://github.com/breakdowns/slam-mirrorbot) I pick piece of piece this repos
